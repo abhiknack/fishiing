@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/fishiing/static/css/main.39807699.css",
+    "main.js": "/fishiing/static/js/main.dc4fba55.js",
+    "static/js/453.4af1de6e.chunk.js": "/fishiing/static/js/453.4af1de6e.chunk.js",
+    "index.html": "/fishiing/index.html",
+    "main.39807699.css.map": "/fishiing/static/css/main.39807699.css.map",
+    "main.dc4fba55.js.map": "/fishiing/static/js/main.dc4fba55.js.map",
+    "453.4af1de6e.chunk.js.map": "/fishiing/static/js/453.4af1de6e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.39807699.css",
+    "static/js/main.dc4fba55.js"
+  ]
+}
